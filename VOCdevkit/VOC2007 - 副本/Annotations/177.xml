@@ -1,0 +1,38 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>177.jpg</filename>
+	<path>C:\Users\PC\Desktop\1\新建文件夹\177.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasal pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>897</xmin>
+			<ymin>1573</ymin>
+			<xmax>1001</xmax>
+			<ymax>1783</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nasal pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1321</xmin>
+			<ymin>1580</ymin>
+			<xmax>1425</xmax>
+			<ymax>1818</ymax>
+		</bndbox>
+	</object>
+</annotation>

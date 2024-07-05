@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>36.jpg</filename>
+	<path>D:\file\皱纹\images\images\36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nasal pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1373</xmin>
+			<ymin>1810</ymin>
+			<xmax>1590</xmax>
+			<ymax>2171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nasal pattern</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>759</xmin>
+			<ymin>1868</ymin>
+			<xmax>917</xmax>
+			<ymax>2161</ymax>
+		</bndbox>
+	</object>
+</annotation>
